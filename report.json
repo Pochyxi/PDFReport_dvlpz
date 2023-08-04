@@ -1,0 +1,33 @@
+{
+  "Result": true,
+  "Message": "Success",
+  "warning": "",
+  "executionDate": "2019-01-01T00:00:00",
+  "executionTime": "00:00:00",
+  "imgs":[
+    {
+      "name": "img1",
+      "path": "./media/img_test_prova.jpeg"
+    },
+    {
+      "name": "img2",
+      "path": "./media/img_test_prova.jpeg"
+    },
+    {
+      "name": "img3",
+      "path": "./media/img_test_prova.jpeg"
+    },
+    {
+      "name": "img4",
+      "path": "./media/img_test_prova.jpeg"
+    },
+    {
+      "name": "img5",
+      "path": "./media/img_test_prova.jpeg"
+    },
+    {
+      "name": "img6",
+      "path": "./media/img_test_prova.jpeg"
+    }
+  ]
+}
